@@ -1,0 +1,11 @@
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.deps.json
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.json
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.runtimeconfig.dev.json
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\bin\Debug\netcoreapp2.1\Senai.InLock.WebApi.dll
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csprojAssemblyReference.cache
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.csproj.CoreCompileInputs.cache
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cache
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorAssemblyInfo.cs
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfoInputs.cache
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.AssemblyInfo.cs
+F:\1s2019\sprint-2-backend\Backend\senai.inlock.webapi.manha\Backend\Senai.InLock.WebApi\Senai.InLock.WebApi\obj\Debug\netcoreapp2.1\Senai.InLock.WebApi.RazorTargetAssemblyInfo.cache
